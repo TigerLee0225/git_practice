@@ -1,2 +1,3 @@
 echo git status practice
 test modification test
+git remote push practice
